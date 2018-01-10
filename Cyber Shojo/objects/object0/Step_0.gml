@@ -1,7 +1,7 @@
  if 
 	 keyboard_check(vk_left)
 	 {
-	 hengxiang_sudu_=-3;}//按左键
+	 hengxiang_sudu_=-3;}//按左zuo键
 else if
 	keyboard_check(vk_right)
 	{
